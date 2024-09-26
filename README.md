@@ -1,7 +1,8 @@
 # Atividade Singleton - Prof. Rafaela
 ## Alunos:
   Marco Thulio Martins: RA - 4231921901 ||
-  Breno Jesus Andrade de Oliveira: RA - 4231921291
+  Breno Jesus Andrade de Oliveira: RA - 4231921291 ||
+  GitHub : bJesuss
 ### Escopo da atividade:
   PRÁTICA - FÁBRICA DE CHOCOLATE
 
